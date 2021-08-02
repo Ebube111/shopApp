@@ -1,7 +1,7 @@
 # SHOP APP
-an app that lets authenticated users to login and use browse through products
-selected products are added to cart and summed up to total amount
-the total in the cart is automatically displayed in the checkout page
+- an app that lets authenticated users to login and use browse through products
+- selected products are added to cart and summed up to total amount
+- the total in the cart is automatically displayed in the checkout page
 
 NOTE: I am yet to add payment gateway to this project
 
